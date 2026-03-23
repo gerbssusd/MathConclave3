@@ -19,7 +19,9 @@ layout: cover
 ## 23 March 2026
 
 ---
-layout: center
+layout: image-left
+image: /Epi.png
+class: text-center
 ---
 # "Just keep in mind: the more we value things outside of our control, the less control we have."
 
