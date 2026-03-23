@@ -11,10 +11,45 @@ mdc: true
 ts: true
 favicon: /Maxfav.png
 ---
+layout: cover
+---
 
-## Template
+# Math Monclave 3
+
+## 23 March 2026
+
+---
+layout: quote
+---
+"Just keep in mind: the more we value things outside of our control, the less control we have."
+
+## Epictcetus
 
 <!-- Slide 1 -->
+
+---
+layout: section
+---
+
+Skills Needed for Financial Algebra
+
+---
+layout: section
+---
+
+Skills Needed for Algebra I
+
+---
+layout: section
+---
+
+# Skills needed for Geometry
+
+---
+layout: section
+---
+
+Skills Needed for Algebra II
 
 ---
 layout: end
