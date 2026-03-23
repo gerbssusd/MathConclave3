@@ -19,7 +19,7 @@ layout: cover
 ## 23 March 2026
 
 ---
-layout: quote
+layout: center
 ---
 # "Just keep in mind: the more we value things outside of our control, the less control we have."
 
