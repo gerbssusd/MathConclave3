@@ -14,7 +14,7 @@ favicon: /Maxfav.png
 layout: cover
 ---
 
-# Math Monclave 3
+# Math Conclave 3
 
 ## 23 March 2026
 
