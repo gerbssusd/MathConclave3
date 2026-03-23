@@ -10,7 +10,7 @@ transition: fade-out
 mdc: true
 ts: true
 drawings:
-  persist:true
+  persist: true
 favicon: /Maxfav.png
 ---
 
