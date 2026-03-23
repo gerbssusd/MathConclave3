@@ -21,7 +21,7 @@ layout: cover
 ---
 layout: quote
 ---
-"Just keep in mind: the more we value things outside of our control, the less control we have."
+# "Just keep in mind: the more we value things outside of our control, the less control we have."
 
 ## Epictcetus
 
@@ -31,13 +31,13 @@ layout: quote
 layout: section
 ---
 
-Skills Needed for Financial Algebra
+# Skills Needed for Financial Algebra
 
 ---
 layout: section
 ---
 
-Skills Needed for Algebra I
+# Skills Needed for Algebra I
 
 ---
 layout: section
@@ -49,7 +49,7 @@ layout: section
 layout: section
 ---
 
-Skills Needed for Algebra II
+# Skills Needed for Algebra II
 
 ---
 layout: end
