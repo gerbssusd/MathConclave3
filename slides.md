@@ -9,6 +9,8 @@ transition: fade-out
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 ts: true
+drawings:
+  persist:true
 favicon: /Maxfav.png
 ---
 
