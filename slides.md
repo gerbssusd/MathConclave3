@@ -11,8 +11,6 @@ mdc: true
 ts: true
 favicon: /Maxfav.png
 ---
-layout: cover
----
 
 # Math Conclave 3
 
