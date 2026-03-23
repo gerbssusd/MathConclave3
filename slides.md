@@ -34,10 +34,22 @@ layout: section
 # Skills Needed for Financial Algebra
 
 ---
+layout: center
+---
+
+## Suggested Lessons 
+
+---
 layout: section
 ---
 
 # Skills Needed for Algebra I
+
+---
+layout: center
+---
+
+## Suggested Lessons 
 
 ---
 layout: section
@@ -46,10 +58,22 @@ layout: section
 # Skills needed for Geometry
 
 ---
+layout: center
+---
+
+## Suggested Lessons 
+
+---
 layout: section
 ---
 
 # Skills Needed for Algebra II
+
+---
+layout: center
+---
+
+## Suggested Lessons 
 
 ---
 layout: end
